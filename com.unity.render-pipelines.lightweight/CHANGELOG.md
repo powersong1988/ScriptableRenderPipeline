@@ -4,6 +4,24 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [5.17.0] - 2019-XX-XX
+
+## [5.16.1] - 2019-05-22
+### Changed
+- This package now requires Unity 2019.1.3f1 or later to run.
+
+## [5.16.0] - 2019-05-20
+
+### Version Updated
+The version number for this package has increased due to a version update of a related graphics package.
+
+## [5.15.0] - 2019-05-13
+### Changed
+- Updated the [Feature Comparison Table](lwrp-builtin-feature-comparison.md) to reflect the current state of LWRP features.
+
+### Fixed
+- Fixed a NullReference exception when you create a new Lightweight Render Pipeline Asset. [case 1153388](https://issuetracker.unity3d.com/product/unity/issues/guid/1153388/) 
+
 ## [5.14.0] - 2019-05-09
 ### Added
 - Added SpeedTree shaders.
