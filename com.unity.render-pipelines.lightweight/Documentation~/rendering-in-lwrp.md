@@ -15,7 +15,7 @@ In the Forward renderer, LWRP implements a rendering loop that tells Unity how t
 
 
 
-When the [render pipeline is active in Graphics Settings](configuring-lwrp-for-use.md), Unity uses LWRP to render all Cameras in your Project, including game and Scene view cameras, Reflection Probes, and previews. 
+When the [render pipeline is active in Graphics Settings](configuring-lwrp-for-use.md), Unity uses LWRP to render all Cameras in your Project, including game and Scene view cameras, Reflection Probes, and the preview windows in your Inspectors. 
 
 The LWRP renderer executes a Camera loop for each Camera, which performs the following steps:
 
