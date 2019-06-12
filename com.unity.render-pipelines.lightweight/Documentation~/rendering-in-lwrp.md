@@ -11,7 +11,7 @@ In the Forward renderer, LWRP implements a rendering loop that tells Unity how t
 
 
 
-![THe LWRP Forward rendering loop](Images/Graphics/Rendering Flowchart.png)
+![THe LWRP Forward rendering loop](Images/Graphics/Rendering_Flowchart.png)
 
 
 
